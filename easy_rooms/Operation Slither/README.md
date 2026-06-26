@@ -90,7 +90,7 @@
 - Let's reload the deleted file:
 ![last flag](./image.png)
 
-## 🔥 Glad to share First Walk Through, I hope you enjoyed the hints 🔥
+## 🔥 Glad to share First Walk Through🔥
   
 
 
