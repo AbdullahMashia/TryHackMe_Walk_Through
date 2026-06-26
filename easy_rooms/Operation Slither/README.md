@@ -2,7 +2,9 @@
 <p align='center'><img src="./challenge.png"></p>
 
 
-
+<br>
+<br>
+<br>
 
 
 ## First part of the challenge:
