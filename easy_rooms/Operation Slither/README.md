@@ -13,7 +13,7 @@
 ### Q2:What is the value of the flag?
 - Now we have a lead on the attackers, let's scan the messages in the platform we found from pervious step
 - check all messages, replys, and media. ( hint: you will find the solution in the replys)
-- Got it!, we found a base64 string , we just need to decode it.
+- Got it!, we found a base64 string , we just need to decode it. You can use a website similar to dencode.com
 
 ## Second part of the challenge: ( The Sidekick):
 ![second challenge] (./2d_ch.png)
