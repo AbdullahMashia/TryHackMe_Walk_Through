@@ -16,6 +16,7 @@
 - Got it!, we found a base64 string , we just need to decode it.
 
 ## Second part of the challenge: ( The Sidekick):
+![second challenge] (./2d_ch.png)
 
 
 
