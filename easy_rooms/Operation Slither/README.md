@@ -33,7 +33,9 @@
 <br>
 <br>
 <br>
+
 ## Second part of the challenge: ( The Sidekick):
+
 ![second challenge](./2d_ch.png)
 - Here we need to build on the previous info we gathered
 
