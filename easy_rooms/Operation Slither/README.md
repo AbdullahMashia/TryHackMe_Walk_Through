@@ -39,6 +39,31 @@
 - We need to find digital footprints for The second user user we found. ( we can use google dorking or any other website or sherlock in kali)
 - After searching we found few accounts, but only one is interesting:
   ![second account](./sound.png)
+
+- Now we look inside each track in the user playlist. ( you will find a base64 string in the description of one of these tracks)
+
+
+## The third Part: ( The Last Operator):
+![last challenge](./3d_ch.png)
+
+- We will build on what we already now about the users, websites, and other accounts.
+
+### Q1: What is the handle of the third operator?
+- In order to solve this question, we need to check the previous website and look for any connections, likes, or anything interesting ( ignore base64 in comments)
+- The solution for thi question resides in the prototype 2 track in the website we found.
+
+### Q2: What other platform does the third operator use? Answer in lowercase.
+- We will search for the user we found from pervious step ( look for the same username in other platforms)
+- You will find an account related to developement and project sharing ( starts with G)
+
+### Q3: What is the value of the flag?
+- Now we need to look around inside the account we found in (Github) for that account
+- After checking, We found a repo.
+- Let's check it's commits and history, pay close attention to deleted files in one of the commits
+- Let's reload the deleted file:
+![last flag](./image.png)
+
+# Glad to share First Walk Through, I hope you enjoyed the hints
   
 
 
