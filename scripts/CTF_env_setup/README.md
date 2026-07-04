@@ -17,16 +17,20 @@ Name=Firefox
 Exec=your script path here
 </p>
 
-##   Now your script that you want it to run every time your machine reboots:
+##   🔥Now your script that you want it to run every time your machine reboots:
 
 - After you create your script make it executable ( chomd +x your_script)
 - place in a location accessible by the Desktop ( e.x /usr/bin/your_script)
 - now just reboot and everything will run after you login to your machine
 
 
-## What Does my script do?
+## 🏛️What Does my script do?
 - building upon my introduction. To make things easier on me. I made the script runs the first thing after I login and just ask me few question about:
 - the path of my CTF challenges
 - the config file of OpenVPN 
 - the name of the new CTF challenge
 - finally questions if I want to use those answers all the time ( never ask me again option ). which will start executing everything by it self and just asks for the new CTF challenge name
+
+
+## 🕐this version of the script also use systemd services to launch openvpn-client :
+- just to avoid the sudo password request
