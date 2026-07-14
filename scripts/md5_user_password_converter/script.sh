@@ -4,7 +4,7 @@
 
 	if [[ "$1" == "help" ]];then
 		echo "=========> syntax"
-		printf "========> hash_gen.sh username  wordlist.txt output.txt\n\n"
+		printf "========> hash_gen.sh   wordlist.txt   username  output.txt\n\n"
 		exit	
 	fi
 
