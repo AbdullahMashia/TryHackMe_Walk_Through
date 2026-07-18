@@ -86,7 +86,7 @@ Hijack
         - username: md5_password_hash
         - sam:eadd934e2cc978fc622fc1324878d8af
 
-# Let’s try to bruteforce it:
+# Let’s try to bruteforce it: ( no luck, because of attempt limit)
 
 ![image.png](image%209.png)
 
