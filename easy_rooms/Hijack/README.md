@@ -106,8 +106,8 @@ Hijack
     - but, can’t access the directory , only nfsuser has permission so let’s create a user with same name and id
     - Commands:
 
-      ```bash sudo groupadd -g 10003 nfsuser```  for the group
-      ```bash sudo useradd -u 1003 -g 10003  nfsuser ```  for the user
+      ``` sudo groupadd -g 10003 nfsuser```  for the group
+      ``` sudo useradd -u 1003 -g 10003  nfsuser ```  for the user
     
      
     
