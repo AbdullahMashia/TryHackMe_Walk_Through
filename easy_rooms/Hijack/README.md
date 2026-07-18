@@ -104,6 +104,10 @@ Hijack
     ![image.png](image%2013.png)
     
     - but, can’t access the directory , only nfsuser has permission so let’s create a user with same name and id
+    - Commands:
+
+      ( sudo groupdadd -g 10003 nfsuser)   for the group
+      (sudo useradd -u 1003 -g 10003  nfsuser)  for the user
     
      
     
