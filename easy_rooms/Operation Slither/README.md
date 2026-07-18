@@ -71,13 +71,13 @@
 <br>
 <br>
 <br>
-### Q1: What is the handle of the third operator?
+## Q1: What is the handle of the third operator?
 - In order to solve this question, we need to check the previous website and look for any connections, likes, or anything interesting ( ignore base64 in comments)
 - The solution for thi question resides in the prototype 2 track in the website we found.
 <br>
 <br>
 <br>
-###Q2: What other platform does the third operator use? Answer in lowercase.
+## Q2: What other platform does the third operator use? Answer in lowercase.
 - We will search for the user we found from pervious step ( look for the same username in other platforms)
 - You will find an account related to developement and project sharing ( starts with G)
 <br>
