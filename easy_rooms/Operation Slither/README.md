@@ -83,7 +83,8 @@
 <br>
 <br>
 <br>
-###Q3: What is the value of the flag?
+
+## Q3: What is the value of the flag?
 - Now we need to look around inside the account we found in (Github) for that account
 - After checking, We found a repo.
 - Let's check it's commits and history, pay close attention to deleted files in one of the commits
